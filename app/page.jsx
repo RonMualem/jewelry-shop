@@ -52,13 +52,13 @@ const PRODUCTS = [
     image: 'https://images.unsplash.com/photo-1515569067071-ec3b51339f23?auto=format&fit=crop&w=800&q=80'
   },
   {
-    id: "three-friends-01",
-    name: "שלושה חמודים",
-    price: 500,
-    category: "מיוחדים",
-    lengths: ["סטנדרטי"],
-    badge: "חדש",
-    image: "https://drive.google.com/uc?export=view&id=1iAO7FO216ZeU7zso9ssXjSZTxCfiF_9z"
+  id: "three-friends-01",
+  name: "שלושה חמודים",
+  price: 500,
+  category: "מיוחדים",
+  lengths: ["סטנדרטי"],
+  badge: "חדש",
+  image: "https://drive.google.com/thumbnail?id=1iAO7FO216ZeU7zso9ssXjSZTxCfiF_9z&sz=w1200"
   },
   {
     id: "ronit-sea-01",
@@ -67,7 +67,7 @@ const PRODUCTS = [
     category: "מיוחדים",
     lengths: ["סטנדרטי"],
     badge: "חדש",
-    image: "https://drive.google.com/uc?export=view&id=15V_LVStCa2oEZNWrQ4XM52H6gZPoXjPg"
+    image: "https://drive.google.com/thumbnail?id=15V_LVStCa2oEZNWrQ4XM52H6gZPoXjPg&sz=w1200"
   }
 ]
 
