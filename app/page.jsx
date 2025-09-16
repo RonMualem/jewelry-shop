@@ -59,6 +59,15 @@ const PRODUCTS = [
     lengths: ["סטנדרטי"],
     badge: "חדש",
     image: "https://drive.google.com/uc?export=view&id=1iAO7FO216ZeU7zso9ssXjSZTxCfiF_9z"
+  },
+  {
+    id: "ronit-sea-01",
+    name: "ילד עם רונית ים",
+    price: 700,
+    category: "מיוחדים",
+    lengths: ["סטנדרטי"],
+    badge: "חדש",
+    image: "https://drive.google.com/uc?export=view&id=15V_LVStCa2oEZNWrQ4XM52H6gZPoXjPg"
   }
 ]
 
