@@ -16,15 +16,6 @@ const PRODUCTS = [
     image: 'https://images.unsplash.com/photo-1522312346375-d1a52e2b99b3?auto=format&fit=crop&w=800&q=80'
   },
   {
-    id: 'necklace-silver-02',
-    name: 'שרשרת כסף עם תליון',
-    price: 249,
-    category: 'שרשראות',
-    lengths: ['40cm', '45cm', '50cm'],
-    badge: 'חדש',
-    image: 'https://images.unsplash.com/photo-1520974735194-7b1c1c2e0f00?auto=format&fit=crop&w=800&q=80'
-  },
-  {
     id: 'ring-gold-03',
     name: 'טבעת זהב קלאסית',
     price: 299,
@@ -32,24 +23,6 @@ const PRODUCTS = [
     lengths: ['52', '54', '56', '58'],
     badge: '',
     image: 'https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?auto=format&fit=crop&w=800&q=80'
-  },
-  {
-    id: 'bracelet-silver-04',
-    name: 'צמיד כסף משולב',
-    price: 179,
-    category: 'צמידים',
-    lengths: ['16cm', '18cm', '20cm'],
-    badge: '',
-    image: 'https://images.unsplash.com/photo-1516637090014-cb1ab0d08fc7?auto=format&fit=crop&w=800&q=80'
-  },
-  {
-    id: 'necklace-pearl-05',
-    name: 'שרשרת פנינים אלגנטית',
-    price: 329,
-    category: 'שרשראות',
-    lengths: ['40cm', '45cm'],
-    badge: 'קלאסי',
-    image: 'https://images.unsplash.com/photo-1515569067071-ec3b51339f23?auto=format&fit=crop&w=800&q=80'
   },
   {
   id: "three-friends-01",
